@@ -1,0 +1,38 @@
+# This .gitignore file should be placed at the root of your Unity project directory
+
+# Ignore the following asset meta files:
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+*.pidb
+*.booproj
+*.svd
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.unsaved
+*.orig
+*.mdb
+*.opendb
+*.VC.db
+
+# Textures and other assets that might be very large files
+*.psd
+*.tga
+*.tiff
+*.tif
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# Ignore crash reports
+sysinfo.txt
